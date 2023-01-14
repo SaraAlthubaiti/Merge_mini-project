@@ -1,1 +1,2 @@
-# Merge mini-project Documentation
+Welcome to Merge mini-project Documentation
+==================================================
