@@ -1,1 +1,1 @@
-The documentation for Merge mini-project:
+# Merge mini-project Documentation
